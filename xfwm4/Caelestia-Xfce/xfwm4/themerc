@@ -1,0 +1,18 @@
+# Caelestia-Xfce — xfwm4 theme matching the caelestia-xfce Quickshell shell.
+# Stock Caelestia Material-3 scheme colours; regenerate with ../generate-theme.py
+active_text_color=#e5e1e7
+inactive_text_color=#918f9a
+active_dark_color=#131317
+active_mid_color=#201f23
+active_light_color=#47464f
+inactive_dark_color=#0e0e12
+inactive_mid_color=#16161a
+inactive_light_color=#39393d
+title_shadow_active=false
+title_shadow_inactive=false
+full_width_title=true
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_horizontal_offset=6
+button_offset=6
+button_spacing=4

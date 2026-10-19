@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Caelestia for Xfce (Quickshell shell)
+Comment=Caelestia-styled Quickshell bar/drawers replacing xfce4-panel on X11
+Exec=caelestia-xfce-session
+Icon=preferences-desktop-theme
+NoDisplay=true
+OnlyShowIn=XFCE;
+X-XFCE-Autostart-Phase=Desktop
+X-GNOME-Autostart-enabled=true
